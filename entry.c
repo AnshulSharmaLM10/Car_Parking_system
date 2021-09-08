@@ -2,6 +2,8 @@
 #include<string.h>
 #include "park.h"
 
+\\Header file included
+
 customer entry()
 {
 	customer x;
